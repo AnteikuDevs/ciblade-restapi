@@ -1,0 +1,8 @@
+/* phone */
+@media (max-width: 575.98px) {
+    
+    .img-logo{
+        width: 20% !important;
+        margin-left: 15px;
+    }
+}

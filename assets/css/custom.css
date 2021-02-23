@@ -1,0 +1,29 @@
+.img-logo{
+    width: 45% !important;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* background */
+.bg-cafe-noir{
+    background-color: #412E2E !important;
+}
+
+.bg-macaron-light{
+    background-color: #f5ebe5 !important;
+}
+/* end background */
+
+/* button */
+/*.btn-default {
+    color: #412E2E;
+    background-color: #F7DFD4;
+}
+
+.btn-default:hover,
+.btn-default:focus {
+    background-color: #874e4c;
+
+}*/
+/* end button */

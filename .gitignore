@@ -1,0 +1,7 @@
+.env
+.htaccess
+/api/app/logs/*
+/api/.htaccess
+
+/app/cache/*
+/app/logs/*
